@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Wutacountry
+title: WutaStaging
 email: hello@wutacountry.com
 comments:
   provider: utterances
@@ -30,8 +30,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 favicon: /assets/img/favicons/favicon.ico
 apple_touch_icon: /assets/img/favicons/apple-icon-180x180.png
 avatar: /assets/img/site-avatar.png
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://wutacountry.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/wutastaging" # the subpath of your site, e.g. /blog
+url: "https://vtf6259.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
